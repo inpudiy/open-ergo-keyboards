@@ -1,15 +1,39 @@
-### Case
-#unibody #split
+## Case
+#unibody #split #3D
 
-### Connection
+## Layout
+#ortholinear #columnar #splay
+
+## Connection
 #wireless #wired #dual-mode
 
 ## Сontroller
-#onboard #module #drop-in
+#onboard #module #drop-in #castellated
 ### Module
+#Holyiot-YJ18010
 ### Onboard
 #nRF52840 #RP2040 #nRF52833
 ### Drop-in
 #pro-micro 
+### Castellated 
+#RP2040-Zero #XIAOBLE #XIAORP2040
+
+## PCB
+#reversible #breakable #single #100x100mm #handwired
+
+## Switch Support
+#multi-switch #per-switch-pcb
+
+## Switch Mount
+#dual-mount #solder #hotswap
+
+## Switch Type
+#chocV1 #chocV2 #MX #KS-27/33
+
+## Spacing
+#18x17mm #1905x1905mm
+
+## Lighting
+#per-key-rgb #underglow #LEDStrip
 ## Feature
-#statusLED
+#statusLED #direct-pin #encoder
