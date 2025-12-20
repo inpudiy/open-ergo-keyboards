@@ -41,4 +41,4 @@
 #per-key-rgb #underglow #LEDStrip
 
 ## Feature
-#statusLED #direct-pin #encoder #cnc-case #nice-view
+#statusLED #direct-pin #encoder #cnc-case #nice-view 
